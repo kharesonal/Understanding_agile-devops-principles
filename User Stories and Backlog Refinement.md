@@ -76,3 +76,6 @@ To meet the goals of CI/CD and to deliver predictably, we need to deliver tiny b
 **User Story**:The smallest change that will result in behavior change observable by the user and consists of one or more tasks. If the change is not observable, it cannot be demonstrated. If it cannot be demonstrated, there’s no feedback loop and you cannot adjust with agility.
 
 **Task**:The smallest independently deployable change. Examples: configuration change, new test, new tested function, table change, etc. A task may or may not implement observable change, but it is always independent of other changes. If a task cannot be deployed without another task, then change priorities or learn how to use feature flags.
+
+
+## 3.2 Explain the importance of backlog refinement in Agile methodology. Detail the activities involved in backlog refinement and how it contribute to effective sprint planning and execution in a DevOps environment.
